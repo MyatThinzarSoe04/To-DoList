@@ -36,7 +36,7 @@ A sleek and modern task management application built with Flask, featuring a bea
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/callmeHeinHtet/task-manager.git
+   git clone https://github.com/MyatThinzarSoe04/task-manager.git
    cd task-manager
    ```
 
